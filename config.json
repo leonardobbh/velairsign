@@ -1,0 +1,9 @@
+{
+    "mysqlhost": "velair.cluster-czaihhjgob2d.us-east-2.rds.amazonaws.com",
+    "mysqlport": "3306",
+    "mysqluser": "admin",
+    "mysqlpassword": "velairPASSw0rd",
+    "mysqldatabase": "velairportal",
+
+    "secretKeyAPI": "UzReyJt1erxcrQsEvXzWuEtyejywpQ8ENYthFguK"
+}
